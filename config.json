@@ -65,6 +65,20 @@
       "description": "Construção de uma API REST com FastAPI, validação Pydantic e operações CRUD",
       "path": "assignments/fastapi-rest-apis",
       "dueDate": "2026-11-17"
+    },
+    {
+      "id": "testes-fastapi",
+      "title": "Testes Automatizados para APIs FastAPI",
+      "description": "Prática de testes de endpoints FastAPI com pytest e TestClient, cobrindo sucesso, validação e erros",
+      "path": "assignments/testes-fastapi",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Código inicial da API",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
