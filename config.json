@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "APIs REST com FastAPI",
+      "description": "Construção de uma API REST com FastAPI, validação Pydantic e operações CRUD",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-11-17"
     }
   ]
 }
